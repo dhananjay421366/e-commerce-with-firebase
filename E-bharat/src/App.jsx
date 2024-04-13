@@ -6,6 +6,7 @@ import viteLogo from '/vite.svg'
 function App() {
   return (
     <>
+  <h1>Hello Vite + React!</h1>
     
     </>
   )
